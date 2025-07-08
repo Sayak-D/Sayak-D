@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayak Das</h1>
 <h3 align="center">A passionate SOC analyst trying to learn more about the cybersecurity world</h3>
 
-- 🌱 I’m currently learning **Microsoft Sentinel, Azure, AWS**
+- 🌱 I’m currently learning **Microsoft Sentinel,Whireshark, Azure, AWS**
 - 👯 I’m looking to collaborate on **SOC Analyst projects**
 - 🤝 I’m looking for help with **Cybersecurity**
 - 📫 How to reach me: **sayakdas0210@gmail.com**
