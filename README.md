@@ -1,23 +1,51 @@
 <h1 align="center">Hi 👋, I'm Sayak Das</h1>
 <h3 align="center">A passionate SOC analyst trying to learn more about the cybersecurity world</h3>
 
-- 🌱 I’m currently learning **Microsoft Sentinel,Whireshark, Azure, AWS**
-- 👯 I’m looking to collaborate on **SOC Analyst projects**
-- 🤝 I’m looking for help with **Cybersecurity**
-- 📫 How to reach me: **sayakdas0210@gmail.com**
+- 🌱 I’m currently learning <strong>Microsoft Sentinel, Wireshark, Azure, AWS</strong>  
+- 👯 I’m looking to collaborate on <strong>SOC Analyst projects</strong>  
+- 🤝 I’m looking for help with <strong>Cybersecurity</strong>  
+- 📢 How to reach me: <strong>sayakdas0210@gmail.com</strong>
 
 ---
 
 <h3 align="left">🎓 Virtual Experience Programs</h3>
 
-- 🛡️ **Tata Cybersecurity Analyst** – Forage (July 2025)  
-- 🔐 **Mastercard Cybersecurity Virtual Experience** – Forage (June 2025)  
-- 🧰 **AIG Shields Up Cybersecurity Program** – Forage (July 2025)  
-- 🧾 **Deloitte Cyber Job Simulation** – Forage (June 2025)
+- 🛡️ <strong>Tata Cybersecurity Analyst</strong> – Forage (July 2025)  
+- 🔐 <strong>Mastercard Cybersecurity Virtual Experience</strong> – Forage (June 2025)  
+- 🧰 <strong>AIG Shields Up Cybersecurity Program</strong> – Forage (July 2025)  
+- 🧾 <strong>Deloitte Cyber Job Simulation</strong> – Forage (June 2025)
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">🛠️ Technical Skills</h3>
+
+- **SIEM:** Wazuh, Splunk  
+- **Cloud:** AWS (IAM, EC2, S3), Azure (Fundamentals)  
+- **EDR & SOAR:** Velociraptor, Open-source SOAR  
+- **Scripting:** Python (Basic), Bash (Basic)  
+- **Operating Systems:** Kali Linux, Windows Server  
+- **Tools:** TryHackMe, Hack The Box  
+- **Soft Skills:** Communication, Attention to Detail, Problem-Solving
+
+---
+
+<h3 align="left">📊 Projects</h3>
+
+- Investigated login failures using Windows Event Viewer logs  
+- Completed TryHackMe SOC Level 1 path with hands-on blue team labs  
+- Built a Python script to simulate and log brute-force attempts  
+- Configured AWS IAM and S3 to explore misconfiguration risks
+
+---
+
+<h3 align="left">🔹 Education</h3>
+
+- B.Tech – Information Technology  
+  R.R Institute of Technology, Bengaluru | 2019 – 2023
+
+---
+
+<h3 align="left">📊 Languages and Tools</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -35,3 +63,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
+<!-- TRYHACKME BADGE -->
+<h3 align="left">🔹 My TryHackMe Progress</h3>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4900324" style='border:none; width:100%; height:200px;'></iframe>
